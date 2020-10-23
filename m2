@@ -1,1 +1,0 @@
-../../jitsiSoftphone/jitsi/m2
