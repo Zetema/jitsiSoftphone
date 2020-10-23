@@ -1,0 +1,1 @@
+../../jitsiSoftphone/jitsi/CONTRIBUTING.md
